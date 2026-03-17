@@ -1,0 +1,15 @@
+{
+  "name": "rpc",
+  "version": "1.0.0",
+  "description": "Discord Rich Presence",
+  "main": "index.js",
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0"
+}
